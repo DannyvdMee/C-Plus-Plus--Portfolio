@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Danny/CLionProjects/untitled5/Boer.h
+iostream
+-
+string
+-
+
+/cygdrive/c/Users/Danny/CLionProjects/untitled5/Drone.h
+iostream
+-
+
+/cygdrive/c/Users/Danny/CLionProjects/untitled5/Gemeente.h
+iostream
+-
+string
+-
+
+/cygdrive/c/Users/Danny/CLionProjects/untitled5/Smartfarming.h
+iostream
+-
+string
+-
+
+/cygdrive/c/Users/Danny/CLionProjects/untitled5/main.cpp
+Gemeente.h
+/cygdrive/c/Users/Danny/CLionProjects/untitled5/Gemeente.h
+Drone.h
+/cygdrive/c/Users/Danny/CLionProjects/untitled5/Drone.h
+Boer.h
+/cygdrive/c/Users/Danny/CLionProjects/untitled5/Boer.h
+Smartfarming.h
+/cygdrive/c/Users/Danny/CLionProjects/untitled5/Smartfarming.h
+

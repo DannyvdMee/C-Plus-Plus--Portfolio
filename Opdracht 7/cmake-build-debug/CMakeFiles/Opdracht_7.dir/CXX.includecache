@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Danny/CLionProjects/Opdracht 7/11StedenTocht.h
+
+/cygdrive/c/Users/Danny/CLionProjects/Opdracht 7/main.cpp
+iostream
+-
+11StedenTocht.h
+/cygdrive/c/Users/Danny/CLionProjects/Opdracht 7/11StedenTocht.h
+schaatsrijder.h
+/cygdrive/c/Users/Danny/CLionProjects/Opdracht 7/schaatsrijder.h
+
+/cygdrive/c/Users/Danny/CLionProjects/Opdracht 7/schaatsrijder.h
+11StedenTocht.h
+/cygdrive/c/Users/Danny/CLionProjects/Opdracht 7/11StedenTocht.h
+

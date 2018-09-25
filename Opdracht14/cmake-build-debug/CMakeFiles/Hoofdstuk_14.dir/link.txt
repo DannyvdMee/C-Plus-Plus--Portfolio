@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Hoofdstuk_14.dir/main.cpp.o  -o Hoofdstuk_14.exe -Wl,--out-implib,libHoofdstuk_14.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

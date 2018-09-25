@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Danny/CLionProjects/Opdracht9/calculateValue.h
+iostream
+-
+
+/cygdrive/c/Users/Danny/CLionProjects/Opdracht9/insertNumbers.h
+iostream
+-
+
+/cygdrive/c/Users/Danny/CLionProjects/Opdracht9/main.cpp
+iostream
+-
+insertNumbers.h
+/cygdrive/c/Users/Danny/CLionProjects/Opdracht9/insertNumbers.h
+calculateValue.h
+/cygdrive/c/Users/Danny/CLionProjects/Opdracht9/calculateValue.h
+

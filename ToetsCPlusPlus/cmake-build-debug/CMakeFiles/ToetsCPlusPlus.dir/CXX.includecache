@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Danny/CLionProjects/ToetsCPlusPlus/Nepnieuws_Toets.cpp
+iostream
+-
+nepnieuws.h
+/cygdrive/c/Users/Danny/CLionProjects/ToetsCPlusPlus/nepnieuws.h
+
+/cygdrive/c/Users/Danny/CLionProjects/ToetsCPlusPlus/nepJournalist.h
+iostream
+-
+string
+-
+
+/cygdrive/c/Users/Danny/CLionProjects/ToetsCPlusPlus/nepnieuws.h
+iostream
+-
+string
+-
+nepJournalist.h
+/cygdrive/c/Users/Danny/CLionProjects/ToetsCPlusPlus/nepJournalist.h
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Danny/CLionProjects/Opdracht14/Deelnemer.h
+iostream
+-
+string
+-
+
+/cygdrive/c/Users/Danny/CLionProjects/Opdracht14/Registratie.h
+iostream
+-
+
+/cygdrive/c/Users/Danny/CLionProjects/Opdracht14/main.cpp
+iostream
+-
+Deelnemer.h
+/cygdrive/c/Users/Danny/CLionProjects/Opdracht14/Deelnemer.h
+Registratie.h
+/cygdrive/c/Users/Danny/CLionProjects/Opdracht14/Registratie.h
+
