@@ -1,1 +1,0 @@
-/usr/bin/cc    -Wl,--enable-auto-import -v CMakeFiles/cmTC_b984f.dir/CMakeCCompilerABI.c.o  -o cmTC_b984f.exe -Wl,--out-implib,libcmTC_b984f.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
